@@ -13,4 +13,5 @@
 
 ## 使用
 
-- npm start
+- npm start 启动服务
+- npm run build 打包页面
